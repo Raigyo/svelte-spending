@@ -2,7 +2,7 @@
 
 November 2020
 
-> 🔨  Expense calculation application made with Svelte.
+> 🔨  Expenses calculation application made with Svelte.
 >
 > From Udemy: [Svelte de A à Z](https://www.udemy.com/course/svelte-de-a-a-z/)
 
@@ -14,7 +14,10 @@ November 2020
 
 ## About
 
+Simple application to calculate expenses. Expenses are displayed in cards and you can add or delete 
+them.
 
+![capture](_readme-img/capture-01.png)
 
 ## How to test
 
